@@ -1,12 +1,3 @@
----
-name: Feature request
-about: Request a feature for this project
-title: feature -
-labels: ''
-assignees: ''
-
----
-
 ### DESCRIPTION: # 
 A clear and concise description of what the problem is, in [gherkin](https://cucumber.io/docs/gherkin/reference/) syntax.
 
