@@ -49,10 +49,9 @@ Feature: PAPP (Pen-Pineapple-Apple-Pen)
 1. [Better commit messages with a gitmessage template](https://thoughtbot.com/blog/better-commit-messages-with-a-gitmessage-template) - Matt Sumner
 2. [5 useful tips for a better commit message](https://thoughtbot.com/blog/5-useful-tips-for-a-better-commit-message) - Caleb Hearth
 3. [A note about commit messages](https://tbaggery.com/2008/04/19/a-note-about-git-commit-messages.html) - Tim Pope
-4. [Linus' thoughts on commit messages](https://tbaggery.com/2008/04/19/a-note-about-git-commit-messages.html) - Linus Torvalds
-5. [Semantic commit messages](https://seesparkbox.com/foundry/semantic_commit_messages) - Jeremy Mack
-6. [Github Flavored Markdown Spec](https://github.github.com/gfm/)
-7. [Angular Commit Guidelines](https://github.com/angular/angular.js/blob/master/DEVELOPERS.md#-git-commit-guidelines)
-8. [Creating Github Issue Templates](https://help.github.com/en/github/building-a-strong-community/configuring-issue-templates-for-your-repository#creating-issue-templates)
-9. [Gherkin language guide](https://cucumber.io/)
-10. [PAPP](https://www.youtube.com/watch?v=Ct6BUPvE2sM)
+4. [Semantic commit messages](https://seesparkbox.com/foundry/semantic_commit_messages) - Jeremy Mack
+5. [Github Flavored Markdown Spec](https://github.github.com/gfm/)
+6. [Angular Commit Guidelines](https://github.com/angular/angular.js/blob/master/DEVELOPERS.md#-git-commit-guidelines)
+7. [Creating Github Issue Templates](https://help.github.com/en/github/building-a-strong-community/configuring-issue-templates-for-your-repository#creating-issue-templates)
+8. [Gherkin language guide](https://cucumber.io/)
+9. [PAPP](https://www.youtube.com/watch?v=Ct6BUPvE2sM)
